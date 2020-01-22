@@ -1,6 +1,6 @@
 # Weather Notification Application
 
-Weather notification application is a spring boot, REST API based application which will send sms to inform wheather person need to take the umbrella with them or not.
+Weather notification application is a spring boot, REST API based application which will send sms to inform whether person need to take the umbrella with them or not.
 
 ## Weather Information
 
